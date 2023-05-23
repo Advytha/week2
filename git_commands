@@ -1,0 +1,9 @@
+git status
+git add.
+git commit -m "commit message"
+git push origin <branch-name>.
+git pull origin <branch-name>.
+git log //view commit history
+git branch <branch-name> //can create a new branch using this
+git checkout <branch-name> //and switch to that created new branch using this
+git merge <branch-name>.//if you have made changes in a seperate branch and want to merge them into another branch use this
